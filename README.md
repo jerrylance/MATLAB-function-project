@@ -1,4 +1,4 @@
-# MATLAB-function
+# MATLAB-function project
 I'm doing some math function with MATLAB.
 It's useful for student who need show the figures but no time to write code.
 It's helpful for middle school teachers who need draw math function figures and show them to students.
